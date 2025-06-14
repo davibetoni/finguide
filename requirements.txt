@@ -16,13 +16,5 @@ PyMuPDF>=1.23.7  # fitz
 # Criptografia
 pyAesCrypt>=0.4.3
 
-# E-mail
-smtplib3  # incluído por padrão com Python, não precisa instalar
-ssl       # incluído por padrão
-
 # Segurança
 msoffcrypto-tool>=5.0.0
-
-# Utilidades
-email-validator>=2.1.0.post1
-unicodedata2>=15.1.0
