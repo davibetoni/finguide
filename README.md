@@ -1,4 +1,4 @@
-# 💰 Finance Manager
+# 💰 FinGuide
 
 Um aplicativo de gerenciamento financeiro pessoal desenvolvido com **Streamlit**, que permite:
 
