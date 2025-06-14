@@ -1,10 +1,7 @@
-import os
 import pandas as pd
 from inter_parser import extract_inter_transactions
 from nubank_parser import extract_nubank_transactions
 from utils import categorize
-from datetime import datetime
-import xlsxwriter
 
 def parse_invoice(file_path, invoice_type, password=None):
     try:
